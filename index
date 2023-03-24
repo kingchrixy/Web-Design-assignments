@@ -6,6 +6,8 @@
 	<body>
 		<h1>This page contains links to all the assignments given in this class. Click on each assignment to view it.
 		</h1>
-		<a href="first-assignment.html">First Assignment</a>
+			<ul>
+				<li><a href="first-assignment.html">First Assignment</a></li>
+			</ul>
 	</body>
 </html>
