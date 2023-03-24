@@ -4,8 +4,17 @@
 	<meta charset="utf-8">
 </head>	
 	<body>
+<<<<<<< HEAD
 		<h1>This page contains links to all the assignments given in the Web design class. Click on each assignment link to view the assignment.
 		</h1>
 		<a href="first-assignment.html">First Assignment</a>
+=======
+		<h1>This page contains links to all the assignments given in this class. Click on each assignment to view it.
+		jhjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+		</h1>
+			<ul>
+				<li><a href="first-assignment.html">First Assignment</a></li>
+			</ul>
+>>>>>>> a0f3416f3d902c58692031fbbea3778903149504
 	</body>
 </html>
